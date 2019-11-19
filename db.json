@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Platypus","category":"Indigo"},
+{"id":2,"name":"Jaeger, long-tailed","category":"Yellow"},
+{"id":3,"name":"Waterbuck, common","category":"Indigo"},
+{"id":4,"name":"Iguana, common green","category":"Goldenrod"},
+{"id":5,"name":"Badger, american","category":"Indigo"},
+{"id":6,"name":"Elephant, african","category":"Purple"},
+{"id":7,"name":"Common goldeneye","category":"Teal"},
+{"id":8,"name":"Blackish oystercatcher","category":"Indigo"},
+{"id":9,"name":"Helmeted guinea fowl","category":"Green"},
+{"id":10,"name":"Kori bustard","category":"Fuscia"},
+{"id":11,"name":"American bighorn sheep","category":"Purple"},
+{"id":12,"name":"Sheathbill, snowy","category":"Blue"},
+{"id":13,"name":"Indian jackal","category":"Turquoise"},
+{"id":14,"name":"Ant (unidentified)","category":"Aquamarine"},
+{"id":15,"name":"Bonnet macaque","category":"Khaki"},
+{"id":16,"name":"Marmot, yellow-bellied","category":"Goldenrod"},
+{"id":17,"name":"Asiatic wild ass","category":"Khaki"},
+{"id":18,"name":"Purple grenadier","category":"Puce"},
+{"id":19,"name":"Ground monitor (unidentified)","category":"Fuscia"},
+{"id":20,"name":"Vine snake (unidentified)","category":"Fuscia"}
+]
+}

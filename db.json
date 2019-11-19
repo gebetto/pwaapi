@@ -1,6 +1,6 @@
 {
 "products": [
-[{"id":1,"name":"Platypus","category":"Indigo"},
+{"id":1,"name":"Platypus","category":"Indigo"},
 {"id":2,"name":"Jaeger, long-tailed","category":"Yellow"},
 {"id":3,"name":"Waterbuck, common","category":"Indigo"},
 {"id":4,"name":"Iguana, common green","category":"Goldenrod"},
